@@ -31,7 +31,7 @@
 - 전체 개발 기간 : 2024.05.06 ~ 2024.05.10
 
 ### 개발 환경
-- 개발 도구 : HTML, CSS, JavaScript, React
+- 개발 도구 : HTML, CSS, React
 
 - 주 구현 기능 : CRUD
 
